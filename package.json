@@ -1,0 +1,24 @@
+{
+  "name": "mean-test-backend",
+  "version": "1.0.0",
+  "description": "MEAN stack Demo project CURD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suman101dutta/mean-test-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suman101dutta/mean-test-backend/issues"
+  },
+  "homepage": "https://github.com/suman101dutta/mean-test-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2"
+  }
+}
